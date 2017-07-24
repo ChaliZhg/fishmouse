@@ -1,7 +1,7 @@
 var fishes = [];
 var parks = [];
 var colors = [];
-var fishNumber = 50;
+var fishNumber = 20;
 
 function Park(x,y) {
   this.x = x;
